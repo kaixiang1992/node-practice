@@ -15,4 +15,4 @@ http://node.green[http://node.green]
         * 2-9 事件发射器
             * win10启用：telnet命令[http://www.xitongcheng.com/jiaocheng/win10_article_37554.html]
         * 2-10 响应一次性事件
-        * 2-11 事件发射器实现简单的发布/预定系统，移除监听器
+        * 2-11 事件发射器实现简单的发布/预定系统，移除监听器(聊天室功能)

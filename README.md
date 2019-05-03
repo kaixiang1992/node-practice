@@ -27,3 +27,13 @@ http://node.green[http://node.green]
         * 2-16 实现串行化控制
         * 2-17 实现串行化控制RSS数据转换
         * 2-18 实现并行化流程控制(单词频度计数)
+    * 深入了解Connect和express
+        * 6-1 创建Connect程序
+        * 6-2 创建可配置的Connect中间件
+        * 6-5 极简的Express程序
+        * 6-6 生成的Express程序框架 
+            * 安装命令：npm install -g express-generator
+            * 初始命令 cd 6-6
+            * express --view=ejs 生成ejs项目模板
+            * npm install 安装依赖
+            * npm start 启动项目

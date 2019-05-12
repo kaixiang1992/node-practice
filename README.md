@@ -53,3 +53,6 @@ http://node.green[http://node.green]
                 * lpush 向列表添加一个值
                 * lrange 按范围查找
             * 集合 无序数据集，不允许重复值
+                * sadd 向集合中添加数据
+                * smembers 查询集合中数据
+        * 8-4 用频道实现发布/订阅功能
